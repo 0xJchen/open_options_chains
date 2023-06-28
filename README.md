@@ -120,5 +120,5 @@ docker-compose down
 
 # Remove contents of mounted volumes
 rm -rf logs/*
-rm -rf pgdata/*
+rm -rf pgdata
 ```
